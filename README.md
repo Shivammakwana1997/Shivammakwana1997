@@ -1,65 +1,79 @@
 <!-- Shivammakwana1997 GitHub Profile README -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:161B22,60:21A359,100:1F6FEB&height=220&section=header&text=Shivam%20Makwana&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20Engineering%20%7C%20Python%20Developer&descAlignY=60&descSize=20" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0d2137,70:21A359,100:1F6FEB&height=180&section=header&text=Shivam%20Makwana&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineering%20%7C%20Python%20Developer&descAlignY=62&descSize=18" width="100%"/>
 </div>
 
 <br/>
 
-<table width="100%">
+<table>
 <tr>
-<td width="42%" valign="top" align="center">
+<td valign="top" width="50%">
 
-<br/>
-
-<img src="https://avatars.githubusercontent.com/u/191874858?v=4" width="200px" style="border-radius: 50%;"/>
-
-<br/><br/>
-
-```
-  shivam@makwana
-  ──────────────
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makwana-shivam-1567b8182)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:makwanashivam18@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shivammakwana1997)
+<pre>
+,:;, .  .,:+:  .;?+:.;*+*????????*??#@*
+ .;:.  . ,:++. .;?*:.;++*?????????%@S;
+. ,;, .  .,;+. .:**:.;++*?????????#@*+
+ ..::.    ,:*:  ,*?:.:*+*????????%@%++
+ . .;, .. .:+;  ,+?; ,+*??????S%%%##++
+  . ::. . .,;+...+?;:+?%%???%%%%%#%%#?
+  . .;, .. ,;+, ,*+**%S###%??%%??%#S#%
+   . ,;. . .;+:.*+;;;;;*S@@@##S?%%?%?%
+    ..;, .  :++*;.;+;+:::*%S%#S%??%%?#
+    . ,;. . ,;*;,,:,,::,,,;++%%?%%?S#*
+     ..;: . .:+;,;+;:::;:;+;.*??%%%#%+
+     . ,;.. .:*+,;+;::;;;:,,. S??%%S#*
+      . ;: .:+*:,..,+??*+:,.. ?S?%%%@%
+      . .+..;*:,..;*?%%?+:.,.,%SSS%##+
+       . ;;:*;.+:.??*+;:::,:, +??%S#*+
+       ...*+*.:??+*+;;;:::;:;*+*S%?%**
+       ..,;?;;??????*;;;;;::;; +???%??
+        .,,;:++;++,,,:,::::.,.  ,:+*++
+       ..,.,;;,,;,. .:::,,: ;;,,::++;:
+     ...:,,;:.,:,,,..,::,:::+*:,,::;+
+,.  ...,;,::.::,:::,.,,::::;?:;;:,,:+
+,,.  .,:;,,,:;::::;;::,,,:;;?+;++;;;+
+ . ...:++.:::;;;;;+;:;:,::;+;??;++??%
+</pre>
 
 </td>
-<td width="58%" valign="top">
+<td valign="top" width="50%">
 
-```
-shivam@makwana ~────────────────────────────────────────
+<pre>
+shivam@makwana ─────────────────────────
 
-  OS          ........  Windows 11
-  Location    ........  Ahmedabad, Gujarat, India 🇮🇳
-  Company     ........  Ratanamani Metal & Tubes Ltd
-  Role        ........  Data Scientist | AI Engineering
-  IDE         ........  VS Code + Python 3.12
-  Status      ........  Building & Learning Daily 🔥
+  OS         .....  Windows 11
+  Location   .....  Ahmedabad, Gujarat, India
+  Company    .....  Ratanamani Metal & Tubes Ltd
+  Role       .....  Data Scientist | AI Engineer
+  IDE        .....  VS Code + Python 3.12
+  Status     .....  Building daily
 
-  Languages.Code   ......  Python | SQL | (JS next)
-  Languages.ML     ......  Pandas | NumPy | Scikit-learn
-  Languages.AI     ......  GenAI | LLMs | Prompt Eng.
-  Languages.Human  ......  Hindi, Gujarati, English
+  Languages.Code    ..  Python | SQL
+  Languages.ML      ..  Pandas, NumPy, Sklearn
+  Languages.AI      ..  GenAI | LLMs | Prompting
+  Languages.Human   ..  Hindi, Gujarati, English
 
-  Hobbies     ........  Building projects, Daily coding
-  GenAI.Tools ........  ChatGPT, Gemini, Local LLMs
+  Hobbies    .....  Projects, Daily coding
+  GenAI      .....  ChatGPT, Gemini, Local LLMs
 
-- Contact ──────────────────────────────────────────
-  Email       ........  makwanashivam18@gmail.com
-  GitHub      ........  github.com/Shivammakwana1997
-  LinkedIn    ........  linkedin.com/in/makwana-shivam
+─ Contact ───────────────────────────────
+  Email      .....  makwanashivam18@gmail.com
+  GitHub     .....  Shivammakwana1997
+  LinkedIn   .....  makwana-shivam-1567b8182
 
-- Goals ────────────────────────────────────────────
-  [0]  Python 50 Projects Bootcamp  🔵 IN PROGRESS
-  [1]  ML Models for manufacturing data
-  [2]  AI-powered automation for industry
-  [3]  Django / FastAPI for AI backends
-  [4]  Open Source AI contributions 🌍
-```
+─ Goals ──────────────────────────────────
+  [0] Python 50 Projects  -- IN PROGRESS
+  [1] ML Models for manufacturing
+  [2] AI automation for industry
+  [3] FastAPI / Django backend
+  [4] Open Source AI
+
+─ GitHub Stats ────────────────────────
+  Repos   .....  10 public
+  Commits .....  22+ this month
+  Streak  .....  4 days running
+</pre>
 
 </td>
 </tr>
@@ -67,7 +81,7 @@ shivam@makwana ~─────────────────────�
 
 ---
 
-## 🖥️ About Me in Python
+## Who Am I in Python?
 
 ```python
 class ShivamMakwana:
@@ -75,26 +89,14 @@ class ShivamMakwana:
         self.name       = "Shivam Makwana"
         self.role       = "Data Scientist | AI Engineering"
         self.company    = "Ratanamani Metal & Tubes Ltd"
-        self.location   = "Ahmedabad, Gujarat, India 🇮🇳"
-        self.email      = "makwanashivam18@gmail.com"
-
-        self.learning   = [
-            "Python Bootcamp — 50 Projects 🔥",
-            "Machine Learning with Scikit-learn",
-            "Generative AI & LLM Engineering",
-        ]
-        self.goals      = [
-            "AI-powered Manufacturing Automation",
-            "FastAPI / Django Backend Developer",
-            "Open Source Contributor 🌍",
-        ]
+        self.location   = "Ahmedabad, Gujarat, India"
+        self.learning   = ["Python 50 Projects", "ML", "GenAI"]
+        self.goals      = ["AI Manufacturing", "FastAPI", "Open Source"]
 
     def say_hello(self):
-        print("નમસ્તે! I'm Shivam ☕")
-        print(f"Working at: {self.company}")
-        print(f"Currently: {self.learning[0]}")
-        print("Every commit = one step closer to the goal 💪")
-
+        print("Namaste! I'm Shivam")
+        print(f"@ {self.company}")
+        print("Every commit = 1 step closer")
 
 me = ShivamMakwana()
 me.say_hello()
@@ -102,14 +104,11 @@ me.say_hello()
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivammakwana1997&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivammakwana1997&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Shivammakwana1997&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivammakwana1997&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
@@ -120,31 +119,19 @@ me.say_hello()
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
-
-**Core Skills**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**AI / GenAI**
-
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-**Tools**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-**Learning Next**
+Learning Next:
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -154,24 +141,11 @@ me.say_hello()
 
 ---
 
-## 🚀 Currently Building
+## Featured Repo
 
 <div align="center">
 
-| 🏗️ Project | 📍 Status | 🔧 Stack |
-|:---|:---|:---|
-| 🐍 Python Bootcamp — 50 Projects | 🔵 **Section 5 — Functions** | Python 3.12 |
-| 🤖 AI Automation for Manufacturing | 🔵 **Planning** | Python + GenAI |
-| 📊 Data Analysis Projects | ⚪ Upcoming | Pandas + SQL |
-| 🌐 FastAPI REST Backend | ⚪ Upcoming | Python + FastAPI |
-
-</div>
-
----
-
-## 📅 Activity Graph
-
-<div align="center">
+[![Python Bootcamp](https://github-readme-stats.vercel.app/api/pin/?username=Shivammakwana1997&repo=Python-bootcamp-50-projects&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Shivammakwana1997/Python-bootcamp-50-projects)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivammakwana1997&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -179,29 +153,15 @@ me.say_hello()
 
 ---
 
-## 📁 Featured Repository
-
-<div align="center">
-
-[![Python Bootcamp](https://github-readme-stats.vercel.app/api/pin/?username=Shivammakwana1997&repo=Python-bootcamp-50-projects&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Shivammakwana1997/Python-bootcamp-50-projects)
-
-</div>
-
----
-
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  "Data is the new oil — and I'm learning to refine it."     ║
-║                                                              ║
-║   Shivam Makwana  |  Data Scientist  |  AI Engineering       ║
-║   Ahmedabad, India 🇮🇳  |  Building every single day 🔥       ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
++----------------------------------------------------------+
+| "Data is the new oil - I am learning to refine it."     |
+|  Shivam Makwana  |  Ahmedabad  |  Building daily        |
++----------------------------------------------------------+
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:21A359,100:0D1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:21A359,100:0D1117&height=100&section=footer" width="100%"/>
 
 </div>

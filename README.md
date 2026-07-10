@@ -5,6 +5,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0d2137,65:21A359,100:1F6FEB&height=200&section=header&text=Hey%2C%20I'm%20Shivam%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20AI%20Engineering%20%E2%80%A2%20Python%20Developer&descAlignY=60&descSize=18" width="100%"/>
 
+<div align="center">
+
+# 👋 Welcome to My GitHub Profile!
+
+<a href="https://github.com/Shivammakwana1997">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=21A359&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Shivam+Makwana+%F0%9F%91%8B;Data+Scientist+%7C+AI+Engineer;Python+Developer+%7C+ML+Enthusiast;Building+AI-Powered+Automation+%F0%9F%9A%80;Welcome+to+my+coding+journey!" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Shivammakwana1997&color=21A359&style=for-the-badge&label=Profile+Views)](https://github.com/Shivammakwana1997)
+[![GitHub followers](https://img.shields.io/github/followers/Shivammakwana1997?style=for-the-badge&color=1F6FEB&labelColor=0D1117)](https://github.com/Shivammakwana1997?tab=followers)
+
+</div>
+
 <br/>
 
 <img align="right" width="220" src="https://avatars.githubusercontent.com/u/191874858?v=4" />
@@ -137,7 +152,7 @@ print(f"{ShivamMakwana.streak}")
 
 <div align="center">
 
-> **“Data is the new oil — I am learning to refine it.”**
+> **"Data is the new oil — I am learning to refine it."**
 > 
 > Shivam Makwana &nbsp;•&nbsp; Ahmedabad, India 🇮🇳 &nbsp;•&nbsp; Building every day 🔥
 

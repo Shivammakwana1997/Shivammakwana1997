@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0d2137,65:21A359,100:1F6FEB&height=200&section=header&text=Hey%2C%20I'm%20Shivam%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Non-Tech%20%E2%86%92%20Data%20Science%20%26%20AI%20Engineering&descAlignY=60&descSize=18)](https://github.com/Shivammakwana1997)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0d2137,65:21A359,100:1F6FEB&height=200&section=header&text=Hey%2C%20I%27m%20Shivam%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Science%20%26%20AI%20Engineering&descAlignY=60&descSize=20)
 
 </div>
 
@@ -17,9 +17,9 @@
 
 - 🌱 Learning **Machine Learning, GenAI & Agentic AI Systems**
 - 🤖 Dream: **From Automation Engineer → Data Scientist / AI Engineer**
-- 💡 Belief: *"Anyone from any background can enter Data & AI"*
+- 💡 Belief: *"Anyone from any background can enter Data & AI with the right skills and consistency"*
 - 💬 Languages: **Hindi | Gujarati | English**
-- ⚡ Fun fact: *"Data is the new oil I am learning to refine it."*
+- ⚡ Fun fact: *"Data is the new oil — I am learning to refine it."*
 
 ---
 
@@ -58,16 +58,31 @@
 
 ## 📊 GitHub Stats
 
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivammakwana1997&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=21A359&icon_color=1F6FEB)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivammakwana1997&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=21A359)
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivammakwana1997&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=21A359&icon_color=1F6FEB&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivammakwana1997&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=21A359&ring=1F6FEB&fire=FF6B6B)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivammakwana1997&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=21A359&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Shivammakwana1997&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=21A359&ring=1F6FEB&fire=FF6B6B)
+
+</div>
 
 ---
 
+## 🎯 My Data & AI Journey Roadmap
 
-> 💭 *"I come from a non-tech background — and that's my superpower. I understand real-world problems, and now I'm learning to solve them with Data & AI."*
+```
+[Automation Engineer] ──► [Python + SQL + R] ──► [Data Analysis]
+                                                        │
+                                              [ML & Deep Learning]
+                                                        │
+                                           [GenAI + LangChain + RAG]
+                                                        │
+                                        [AI Engineer / Data Scientist] 🎯
+```
+
+> 💡 *"I come from a non-tech background — and that's my superpower. I understand real-world problems, and now I'm learning to solve them with Data & AI."*
 
 ---
 
@@ -75,22 +90,20 @@
 
 - ✅ Google GenAI / Kaggle AI Courses
 - ✅ Python 50 Projects Bootcamp (Ongoing)
-
+- 🔄 Microsoft DP-600 & DP-700 (In Progress)
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/makwana-shivam-1567b8182)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivammakwana1997)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:makwanashivam18@gmail.com)
 
 ---
 
 <div align="center">
 
-⭐ **From [Shivammakwana1997](https://github.com/Shivammakwana1997) — Non-Tech to Data & AI Engineer 🚀**
+⭐ **Shivam Makwana — Striving to Fit into Data & AI Engineering 🚀**
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:21A359,100:0D1117&height=100&section=footer)](https://github.com/Shivammakwana1997)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:21A359,100:0D1117&height=100&section=footer)
 
 </div>

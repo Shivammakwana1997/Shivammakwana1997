@@ -11,15 +11,15 @@
 | Field | Details |
 |---|---|
 | 🧑 Name | Shivam Makwana |
-| 🎯 Goal | Breaking into **Data Science / AI Engineering** from a non-tech automation background 🚀 |
+| 🎯 Goal | Breaking into **Data Science / AI Engineering** 🚀 |
 | 📍 Location | Ahmedabad, Gujarat, India |
 | 📧 Email | makwanashivam18@gmail.com |
 
 - 🌱 Learning **Machine Learning, GenAI & Agentic AI Systems**
 - 🤖 Dream: **From Automation Engineer → Data Scientist / AI Engineer**
-- 💡 Belief: *"Anyone from any background can enter Data & AI with the right skills and consistency"*
+- 💡 Belief: *"Anyone from any background can enter Data & AI"*
 - 💬 Languages: **Hindi | Gujarati | English**
-- ⚡ Fun fact: *"Data is the new oil — I am learning to refine it."*
+- ⚡ Fun fact: *"Data is the new oil I am learning to refine it."*
 
 ---
 
@@ -66,17 +66,6 @@
 
 ---
 
-## 🎯 My Data & AI Journey Roadmap
-
-```
-[Automation Engineer] ──► [Python + SQL + R] ──► [Data Analysis]
-                                                        │
-                                              [ML & Deep Learning]
-                                                        │
-                                           [GenAI + LangChain + RAG]
-                                                        │
-                                        [AI Engineer / Data Scientist] 🎯
-```
 
 > 💭 *"I come from a non-tech background — and that's my superpower. I understand real-world problems, and now I'm learning to solve them with Data & AI."*
 
@@ -86,7 +75,7 @@
 
 - ✅ Google GenAI / Kaggle AI Courses
 - ✅ Python 50 Projects Bootcamp (Ongoing)
-- 🔄 Microsoft DP-600 & DP-700 (In Progress)
+
 
 ---
 

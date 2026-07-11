@@ -19,8 +19,7 @@
 
 ```yaml
 Name     : Shivam Makwana
-Role     : Data Scientist | AI Engineering
-Company  : Ratanamani Metal & Tubes Ltd
+Goal     : Data Scientist | AI Engineering
 Location : Ahmedabad, Gujarat, India
 Email    : makwanashivam18@gmail.com
 ```
@@ -72,15 +71,13 @@ Email    : makwanashivam18@gmail.com
 
 | Role | Company | Period |
 |------|---------|--------|
-| Automation Engineer | Ratanamani Metal & Tubes Ltd | 2022 – Present |
-| Data Science Learner | Self-Study / Online Bootcamps | 2023 – Present |
-
+| Automation Engineer | Ratanamani Metal & Tubes Ltd | 
+| Data Science Learner | Self-Study / Online Bootcamps | 
 ---
 
 ## 🎯 Certifications & Learning
 
-- 📜 Microsoft DP-600 – Fabric Analytics Engineer *(In Progress)*
-- 📜 Microsoft DP-700 – Fabric Data Engineer *(In Progress)*
+
 - ✅ Google GenAI / Kaggle AI Courses
 - ✅ Python 50 Projects Bootcamp *(Section 5 – Ongoing)*
 

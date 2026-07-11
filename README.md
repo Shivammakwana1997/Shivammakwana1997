@@ -64,11 +64,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivammakwana1997&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivammakwana1997&layout=compact&theme=dark&hide_border=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivammakwana1997&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivammakwana1997&theme=dark&hide_border=true&hide_current_streak_dates=true&hide_total_contributions_dates=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivammakwana1997&theme=github-compact&hide_border=true&bg_color=0d1117&color=21A359&line=1F6FEB&point=21A359)
 
@@ -76,33 +72,25 @@
 
 ---
 
-## 🎯 My Data & AI Journey Roadmap
+## 🏆 Licenses & Certifications
 
-```
-[Automation Engineer] ──► [Python + SQL + R] ──► [Data Analysis]
-                                                        │
-                                              [ML & Deep Learning]
-                                                        │
-                                           [GenAI + LangChain + RAG]
-                                                        │
-                                        [AI Engineer / Data Scientist] 🎯
-```
-
-> 💡 *"I come from a non-tech background — and that's my superpower. I understand real-world problems, and now I'm learning to solve them with Data & AI."*
-
----
-
-## 🏆 Certifications & Learning
-
-- ✅ Google GenAI / Kaggle AI Courses
-- ✅ Python 50 Projects Bootcamp (Ongoing)
-- 🔄 Microsoft DP-600 & DP-700 (In Progress)
+| Certificate | Issuer |
+|---|---|
+| 🤖 5-Day AI Agents Intensive Course with Google | Kaggle |
+| 🔥 AI Skills Fest 2026 | Microsoft |
+| 🐍 Python for Data Science, AI & Development | IBM |
+| 💬 Google Prompting Essentials | Coursera |
+| 🧠 Google AI Essentials V1 | Coursera |
+| ✈️ British Airways - Data Science Job Simulation | Forage |
+| 📊 Deloitte Australia - Data Analytics Job Simulation | Forage |
 
 ---
 
 ## 🌐 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makwana-shivam-1567b8182/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivammakwana1997)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:makwanashivam18@gmail.com)
 
 ---
 

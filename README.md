@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0d2137,65:21A359,100:1F6FEB&height=200&section=header&text=Hey%2C%20I'm%20Shivam%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20AI%20Engineering%20%E2%80%A2%20Python%20Developer&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0d2137,65:21A359,100:1F6FEB&height=200&section=header&text=Hey%2C%20I'm%20Shivam%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20AI%20Engineering&descAlignY=60&descSize=18" width="100%" />
 
 # 👋 Welcome to My GitHub Profile!
 
@@ -28,7 +28,7 @@ Email    : makwanashivam18@gmail.com
 - 🌱 Learning **Machine Learning, GenAI & FastAPI**
 - 🤖 Goal: **AI-powered automation for manufacturing**
 - 💬 Languages: **Hindi | Gujarati | English**
-- ⚡ Fun fact: *"Data is the new oil — I am learning to refine it."*
+- ⚡ Fun fact: *"Data is the new oil I am learning to refine it."*
 
 ---
 

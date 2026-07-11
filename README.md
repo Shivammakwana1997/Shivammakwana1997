@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Shivam Makwana!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=21A359&center=true&vCenter=true&width=600&lines=Data+Science+%7C+AI+Engineering;Machine+Learning+%7C+GenAI+%7C+LangChain;From+Automation+%E2%86%92+Data+%26+AI+Engineer)](https://github.com/Shivammakwana1997)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=21A359&center=true&vCenter=true&width=650&lines=Data+Science+%7C+AI+Engineering+%F0%9F%9A%80;Machine+Learning+%7C+GenAI+%7C+LangChain;From+Automation+%E2%86%92+Data+%26+AI+Engineer)](https://github.com/Shivammakwana1997)
 
 </div>
 
@@ -64,11 +64,14 @@
 
 <div align="center">
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivammakwana1997&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=21A359&icon_color=1F6FEB&count_private=true)](https://github.com/Shivammakwana1997)
+<a href="https://github.com/Shivammakwana1997">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivammakwana1997&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivammakwana1997&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+</a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivammakwana1997&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=21A359&langs_count=8)](https://github.com/Shivammakwana1997)
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shivammakwana1997&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=21A359&ring=1F6FEB&fire=FF6B6B)](https://github.com/Shivammakwana1997)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Shivammakwana1997&theme=dark&hide_border=true" />
 
 </div>
 

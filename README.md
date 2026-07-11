@@ -1,6 +1,12 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0d2137,65:21A359,100:1F6FEB&height=200&section=header&text=Hey%2C%20I%27m%20Shivam%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Science%20%26%20AI%20Engineering&descAlignY=60&descSize=20" width="100%" />
+
+# 👋 Hey, I'm Shivam Makwana!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=21A359&center=true&vCenter=true&width=600&lines=Data+Science+%7C+AI+Engineering;Machine+Learning+%7C+GenAI+%7C+LangChain;From+Automation+%E2%86%92+Data+%26+AI+Engineer)](https://github.com/Shivammakwana1997)
+
 </div>
+
+---
 
 ## 👋 Welcome to My GitHub Profile!
 
@@ -58,11 +64,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shivammakwana1997&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=21A359&icon_color=1F6FEB&count_private=true" />
+[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivammakwana1997&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=21A359&icon_color=1F6FEB&count_private=true)](https://github.com/Shivammakwana1997)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivammakwana1997&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=21A359&langs_count=8" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivammakwana1997&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=21A359&langs_count=8)](https://github.com/Shivammakwana1997)
 
-<img src="https://streak-stats.demolab.com/?user=Shivammakwana1997&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=21A359&ring=1F6FEB&fire=FF6B6B" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shivammakwana1997&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=21A359&ring=1F6FEB&fire=FF6B6B)](https://github.com/Shivammakwana1997)
 
 </div>
 
@@ -101,7 +107,5 @@
 <div align="center">
 
 ⭐ **Shivam Makwana — Striving to Fit into Data & AI Engineering 🚀**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:21A359,100:0D1117&height=100&section=footer" width="100%" />
 
 </div>
